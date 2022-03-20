@@ -14,8 +14,16 @@ Android-приложение для учёта расходов и доходо�
 
 <hr>
 
-# Информационные ресурсы
+# Сервисы для работы
 <ul>
   <li><a href="https://miro.com/app/board/uXjVOI9Iq6A=/?invite_link_id=953018054133" target="_blank">Miro</a> - визуальная доска</li>
   <li><a href="https://money-way.atlassian.net/jira/software/projects/MW/boards/1" target="_blank">Jira</a> - таск-менеджер</li>
+</ul>
+
+<hr>
+
+# Документация
+<ul>
+  <li><a href="https://github.com/PavelFilonov/moneyway/blob/main/docs/ТЗ.pdf" target="_blank">ТЗ</a></li>
+  <li><a href="https://github.com/PavelFilonov/moneyway/blob/main/docs/Курсовой%20проект.pdf" target="_blank">Курсовой проект</a></li>
 </ul>
