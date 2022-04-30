@@ -26,4 +26,5 @@ Android-приложение для учёта расходов и доходо�
 <ul>
   <li><a href="https://github.com/PavelFilonov/moneyway/blob/main/docs/ТЗ.pdf" target="_blank">ТЗ</a></li>
   <li><a href="https://github.com/PavelFilonov/moneyway/blob/main/docs/Курсовой%20проект.pdf" target="_blank">Курсовой проект</a></li>
+  <li><a href="https://github.com/PavelFilonov/moneyway/blob/main/docs/Gitflow.pdf" target="_blank">Описание gitflow</a></li>
 </ul>
