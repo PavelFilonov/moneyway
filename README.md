@@ -29,4 +29,5 @@ Android-приложение для учёта расходов и доходо�
   <li><a href="https://github.com/PavelFilonov/moneyway/blob/main/docs/Gitflow.pdf" target="_blank">Описание gitflow</a></li>
   <li><a href="https://github.com/PavelFilonov/MoneyWayAPI" target="_blank">Серверная часть</a></li>
   <li><a href="https://github.com/PavelFilonov/MoneyWayApp" target="_blank">Клиентская часть</a></li>
+  <li><a href="https://app.swaggerhub.com/apis/PavelFilonov/money-way_api_documentation/V1" target="_blank">API документация в Swagger</a></li>
 </ul>
