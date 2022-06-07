@@ -30,4 +30,5 @@ Android-приложение для учёта расходов и доходо�
   <li><a href="https://github.com/PavelFilonov/MoneyWayAPI" target="_blank">Серверная часть</a></li>
   <li><a href="https://github.com/PavelFilonov/MoneyWayApp" target="_blank">Клиентская часть</a></li>
   <li><a href="https://app.swaggerhub.com/apis/PavelFilonov/money-way_api_documentation/V1" target="_blank">API документация в Swagger</a></li>
+  <li><a href="https://metrika.yandex.ru/dashboard?id=89132016" target="_blank">Метрика</a></li>
 </ul>
